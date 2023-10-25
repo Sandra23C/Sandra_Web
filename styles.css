@@ -1,0 +1,82 @@
+.background{background-color: white;}
+h1{font-family: Time New Roman;
+   font-size: 30px;
+   text-align: center;
+   background-color: cornsilk;}
+.h1{font-family: Time New Roman;
+   font-size: 30px;
+   text-align: center;
+   background-color: aliceblue;}
+h2{font-family: sans-serif;
+   font-size: 20px;
+   text-align: center;}
+h3{font-family: monospace;
+   font-size: 20px;
+   text-align: center;}
+h4{font-family: monospace;
+   font-size: 20px;
+   text-align: center;}
+h5{font-family: monospace;
+   font-size: 20px;
+   text-align: center;}
+p{font-family: inherit;
+  font-size: 18px;
+  text-align-last: center;
+  background-color: snow;
+  padding: 5px;
+  margin-left:	auto;
+  margin-right:	auto;
+  width:	50%; }
+audio{display:block;
+    margin-left: auto;
+      margin-right: auto;
+      width:300px;} 
+div.gallery {
+  border: 10px solid #ccccff;}
+div.gallery:hover {
+  border: 20px solid #ff8080;}
+div.gallery img {
+  width: 100%;
+  height: auto;}
+div.desc {
+  padding: 10px;
+  text-align: center;
+    font-size: 14px;
+  background-color: floralwhite;}
+* {box-sizing: border-box;}
+.responsive {
+  padding: 0 5px;
+  float: left;
+  width: 24.99999%;}
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;}
+img {
+		display: block;
+		margin-left:	auto;
+		margin-right:	auto;
+		width:	300px;}
+.btn{border: none;
+    color: black;
+    cursor: pointer;}
+.HOME{background-color: #dda0dd;
+    font-size: 20px;
+   text-align: center;}
+.ABOUT_ME{background-color: #dda0dd;
+    font-size: 20px;
+text-align: center;}
+.TRAVEL{background-color: #dda0dd;
+    font-size: 20px;
+text-align: center;}
+.topnav {border: none; 
+   color: black;
+  font-size: 15px;
+  padding: 15px 30px; 
+  cursor: pointer;
+ text-align: center;}
+.topnav button:hover {
+  background-color: #ccccff;}
+.footer{text-align: center;
+        background-color: floralwhite;
+        font-size: 25px;}
